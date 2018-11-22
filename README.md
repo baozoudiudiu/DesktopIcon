@@ -227,4 +227,4 @@ NSURL *url = [NSURL URLWithString:[NSString stringWithFormat:@"%@%@", urlString,
     return YES;
 }
 ```
-* [demo地址](https://github.com/baozoudiudiu/DesktopIcon)
+* 因为我用的是本地服务器,所以demo里面写好的url是访问不了的.这个请自行解决.
